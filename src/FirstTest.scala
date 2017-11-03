@@ -1,5 +1,6 @@
-import scala.math.random
 import org.apache.spark.{SparkConf, SparkContext}
+
+import scala.math.random
 
 /**
   * Created by Chenglong Sun on 2016/10/16.
